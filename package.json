@@ -2,9 +2,12 @@
   "name": "@reid/utils",
   "version": "1.0.0",
   "description": "df",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "author": "",
   "license": "ISC"
